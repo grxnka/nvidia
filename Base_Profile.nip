@@ -19,7 +19,7 @@
       <ProfileSetting>
         <SettingNameInfo />
         <SettingID>2916165</SettingID>
-        <SettingValue>44</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -37,7 +37,7 @@
       <ProfileSetting>
         <SettingNameInfo>Texture filtering - LOD Bias</SettingNameInfo>
         <SettingID>7573135</SettingID>
-        <SettingValue>7</SettingValue>
+        <SettingValue>8</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -175,7 +175,7 @@
       <ProfileSetting>
         <SettingNameInfo />
         <SettingID>278257400</SettingID>
-        <SettingValue>54534149</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -235,7 +235,7 @@
       <ProfileSetting>
         <SettingNameInfo />
         <SettingID>541081465</SettingID>
-        <SettingValue>14</SettingValue>
+        <SettingValue>16</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
